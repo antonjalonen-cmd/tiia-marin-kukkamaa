@@ -1,0 +1,17 @@
+<svg viewBox="0 0 640 210" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="tmLogoTitle">
+  <title id="tmLogoTitle">Tiia-Marin Kukkamaa, Narila</title>
+  <g fill="none" stroke="#7A4A52" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+    <!-- minimal flower mark -->
+    <circle cx="80" cy="70" r="12" />
+    <circle cx="60" cy="90" r="12" />
+    <circle cx="100" cy="90" r="12" />
+    <circle cx="68" cy="112" r="12" />
+    <circle cx="92" cy="112" r="12" />
+    <circle cx="80" cy="94" r="7" fill="#C98A7B" stroke="none" />
+    <path d="M80 120v34" />
+  </g>
+  <text x="180" y="94" font-family="'Italiana', Georgia, serif" font-size="42" letter-spacing="1" fill="#5A2F35">Tiia-Marin</text>
+  <text x="180" y="140" font-family="'Italiana', Georgia, serif" font-size="42" letter-spacing="1" fill="#5A2F35">Kukkamaa</text>
+  <line x1="182" y1="158" x2="560" y2="158" stroke="#C98A7B" stroke-width="2" />
+  <text x="182" y="182" font-family="'Jost', Arial, sans-serif" font-size="15" letter-spacing="3" fill="#A8675C">NARILA · ETELÄ-SAVO</text>
+</svg>
